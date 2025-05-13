@@ -1,7 +1,0 @@
-echo "# Aula-Qualidade-de-Software" >> README.md
-Git init
-git add README.md
-git commit -m "primeiro commit"
-git branch -M principal
-git remote add origin https://github.com/GMikko/Aula-Qualidade-de-Software.git
-git push -u origem principal
